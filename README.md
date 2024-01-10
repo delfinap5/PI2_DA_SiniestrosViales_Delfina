@@ -34,7 +34,26 @@
 
 
 # Dashboard y Análisis
-###
+### Paso 1: Comprender los datos y el storytelling
+Análisis de datos: las columnas claves para este storrytelling son VICTIMA[MOTO], ACUSADO[AUTO], N_VICTIMA, AAAA (año) y COMUNA. 
+
+Storytelling: El mensaje que quiero comunicar es sobre tipos de incidentes más comunes a lo largo del tiempo y su comuna critica.
+
+### Paso 2: Selección de herramientas
+Herramientas de visualización de datos: voy a utilizar Power BI para crear visualizaciones interactivas.
+
+### Paso 3: Diseño del dashboard
+Selección de gráficos: Elige los gráficos que mejor comuniquen tu historia. Por ejemplo, gráficos de líneas para tendencias temporales, gráficos de barras para comparaciones, mapas para mostrar ubicaciones.
+
+Filtros interactivos: Implemento filtros que permitan a los usuarios explorar los datos según diferentes dimensiones (VICTIMA[MOTO], ACUSADO[AUTO], N_VICTIMA, AAAA (año) y COMUNA.).
+
+
+### Paso 4: Desarrollo e Implementación
+Construcción del dashboard: Utiliza las herramientas seleccionadas para construir el dashboard, implementando los gráficos, filtros y elementos interactivos necesarios.
+
+Prueba y refinamiento: Realiza pruebas para asegurarte de que el dashboard sea funcional y fácil de usar.
+
+Implementación: Publica o comparte el dashboard en la plataforma o entorno adecuado para que los usuarios puedan acceder y utilizar la información de manera efectiva.
 
 
 # KPIs

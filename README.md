@@ -15,14 +15,14 @@
 # Intruducción
 
 ### En este proyecto, desempeño el papel de un analista de datos y tengo la responsabilidad de llevar a cabo un examen exhaustivo de los datos. El objetivo principal es generar información útil que pueda ser utilizada por las autoridades locales de la Ciudad de Buenos Aires. Esta información servirá para implementar medidas que reduzcan el número de víctimas mortales en incidentes de tráfico.
- He recibido un conjunto de datos denominado 'homicidios', el cual abarca información recopilada en la Ciudad de Buenos Aires durante el período comprendido entre 2016 y 2021.
+### He recibido un conjunto de datos denominado 'homicidios', el cual abarca información recopilada en la Ciudad de Buenos Aires durante el período comprendido entre 2016 y 2021.
 ### Para ello, realizaré una serie de pasos para llegar al objetivo final.
 
 # EDA (Exploratory Data Analysis) y ETL
 ### Realizo una limpieza de los datos, transformandolos para su uso.
- Luego comienzo a buscar relaciones entre los datos y los represento en gráficos a las que me parecen interesantes. Pude identificar que el año con mayor numero de victimas fue en 2018, también que en el rango de 2016 a 2021 el tipo de victima con más número de victimas fueron las Motocicletas, y que los acusados que mas tuvieron incidente con ellas fueron los autos.
+### Luego comienzo a buscar relaciones entre los datos y los represento en gráficos a las que me parecen interesantes. Pude identificar que el año con mayor numero de victimas fue en 2018, también que en el rango de 2016 a 2021 el tipo de victima con más número de victimas fueron las Motocicletas, y que los acusados que mas tuvieron incidente con ellas fueron los autos.
 
- Las medidas para reducir los incidentes entre autos y motos, en la Ciudad de Buenos Aires, Argentina podrían ser:
+### Las medidas para reducir los incidentes entre autos y motos, en la Ciudad de Buenos Aires, Argentina podrían ser:
 
 + Diseño de infraestructura vial adecuada: Implementación de carriles exclusivos para motocicletas en las vías más transitadas, señalización clara y visible, así como mejoras en cruces y rotondas para garantizar la seguridad de todos los usuarios.
 

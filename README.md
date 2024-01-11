@@ -1,4 +1,4 @@
-<p align="center"><img src= 'images\road_accidents_1.jpg'></p>
+<p align="center"><img src= 'images\motorcycle_and_car_accident.jpg'></p>
 
 
 ---

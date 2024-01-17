@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/motorcycle_and_car_accident.jpg" width="300px">
+  <img src="images/motorcycle_and_car_accident.jpg" width="700px">
 </p>
 
 

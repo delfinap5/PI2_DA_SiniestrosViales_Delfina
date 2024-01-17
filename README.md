@@ -1,4 +1,6 @@
-<p align="center"><img src= 'images\motorcycle_and_car_accident.jpg'></p>
+<p align="center">
+  <img src="images/motorcycle_and_car_accident.jpg" width="300px">
+</p>
 
 
 ---

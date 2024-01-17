@@ -34,27 +34,17 @@
 
 
 # Dashboard y Análisis
-### Paso 1: Comprender los datos y el storytelling
-Análisis de datos: las columnas claves para este storrytelling son VICTIMA[MOTO], ACUSADO[AUTO], N_VICTIMA, AAAA (año) y COMUNA. 
+### Dashboard 1: 'Análisis del Comportamiento de Víctimas en el Año 2020'
 
-Storytelling: El mensaje que quiero comunicar es sobre tipos de incidentes más comunes a lo largo del tiempo y su comuna critica.
+Mi objetivo es presentar la evolución de los homicidios a lo largo del año 2020, destacando la disminución en el número de víctimas en comparación con los años 2016-2019 y 2021. Además, se señalará el mes con el mayor aumento, detallando el tipo de calle donde ocurrieron con mayor frecuencia, así como los tipos de víctimas, incluyendo sus acusados y la cantidad de casos en ese mes específico.
 
-### Paso 2: Selección de herramientas
-Herramientas de visualización de datos: voy a utilizar Power BI para crear visualizaciones interactivas.
+### Dashboard 2: 'Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior'
 
-### Paso 3: Diseño del dashboard
-Selección de gráficos: Elige los gráficos que mejor comuniquen tu historia. Por ejemplo, gráficos de líneas para tendencias temporales, gráficos de barras para comparaciones, mapas para mostrar ubicaciones.
+Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
 
-Filtros interactivos: Implemento filtros que permitan a los usuarios explorar los datos según diferentes dimensiones (VICTIMA[MOTO], ACUSADO[AUTO], N_VICTIMA, AAAA (año) y COMUNA.).
+### Dashboard 3: 'Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior'
 
-
-### Paso 4: Desarrollo e Implementación
-Construcción del dashboard: Utiliza las herramientas seleccionadas para construir el dashboard, implementando los gráficos, filtros y elementos interactivos necesarios.
-
-Prueba y refinamiento: Realiza pruebas para asegurarte de que el dashboard sea funcional y fácil de usar.
-
-Implementación: Publica o comparte el dashboard en la plataforma o entorno adecuado para que los usuarios puedan acceder y utilizar la información de manera efectiva.
+Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
 
-# KPIs
-###
+link del dashboard: https://public.tableau.com/views/SiniestrosViales_17052770362730/Dashboard1victimas?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link

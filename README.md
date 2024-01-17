@@ -37,4 +37,4 @@ Definimos a la tasa de homicidios en siniestros viales como el número de vícti
 Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
 
-link del dashboard: https://public.tableau.com/views/SiniestrosViales_17052770362730/Dashboard1victimas?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Link del dashboard: [Siniestros Viales Dashboard](https://public.tableau.com/views/SiniestrosViales_17052770362730/Dashboard1victimas?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)

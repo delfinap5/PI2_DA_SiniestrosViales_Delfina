@@ -27,11 +27,11 @@ Luego comienzo a buscar relaciones entre los datos y los represento en gráficos
 
 Mi objetivo es presentar la evolución de los homicidios a lo largo del año 2020, destacando la disminución en el número de víctimas en comparación con los años 2016-2019 y 2021. Además, se señalará el mes con el mayor aumento, detallando el tipo de calle donde ocurrieron con mayor frecuencia, así como los tipos de víctimas, incluyendo sus acusados y la cantidad de casos en ese mes específico.
 
-### Dashboard 2: 'Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior'
+### Dashboard 2: 'Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior en 2021'
 
 Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
 
-### Dashboard 3: 'Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior'
+### Dashboard 3: 'Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el 2021, en CABA, respecto a 2020'
 
 Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 

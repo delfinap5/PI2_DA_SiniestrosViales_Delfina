@@ -2,15 +2,10 @@
   <img src="imagenes/motorcycle_and_car_accident.jpg" width="400px">
 </p>
 
----
-
 <h1 align='center'>Proyecto Individual 2</h1>
-
 # <h1 align='center'>**`Siniestros viales`**</h1>
-
 <h1 align='center'>Delfina Longo Peña</h3>
 
----
 <details>
 <summary><strong>Índice</strong></summary>
 

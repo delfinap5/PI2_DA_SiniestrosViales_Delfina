@@ -3,7 +3,9 @@
 </p>
 
 <h1 align='center'>Proyecto Individual 2</h1>
+
 # <h1 align='center'>**`Siniestros viales`**</h1>
+
 <h1 align='center'>Delfina Longo Peña</h3>
 
 <details>
@@ -16,6 +18,9 @@
     - [Dashboard 2](#dashboard-2-reducir-en-un-10-la-tasa-de-homicidios-en-siniestros-viales-de-los-últimos-seis-meses-en-caba-en-comparación-con-la-tasa-de-homicidios-en-siniestros-viales-del-semestre-anterior-en-2021)
     - [Dashboard 3](#dashboard-3-reducir-en-un-7-la-cantidad-de-accidentes-mortales-de-motociclistas-en-el-2021-en-caba-respecto-a-2020)
 4. [Stack Tecnológico](#stack-tecnológico)
+    -
+    -
+    -
 5. [Contacto](#contacto)
 
 </details>
@@ -54,7 +59,38 @@ Link del dashboard: [Siniestros Viales](https://public.tableau.com/views/Siniest
 
 # **Stack Tecnológico**
 
-[![Loocker](https://img.shields.io/badge/Loocker-3333?style=for-the-badge&logo=lock&logoColor=white)](https://cloud.google.com/looker?hl=es)
+## *Lenguaje de Programación:*
+
+- [![Python](https://img.shields.io/badge/Python-800080?style=for-the-badge&logo=lucidchart&logoColor=white)](https://www.python.org/)
+  
+  Para el desarrollo de la lógica y la funcionalidad de tu aplicación.
+
+## *Bibliotecas de Análisis de Datos:*
+
+- [![NumPy](https://img.shields.io/badge/NumPy-800080?style=for-the-badge&logo=lucidchart&logoColor=white)](https://numpy.org/)
+
+  Para operaciones numéricas eficientes.
+
+- [![Pandas](https://img.shields.io/badge/Pandas-800080?style=for-the-badge&logo=lucidchart&logoColor=white)](https://pandas.pydata.org/)
+  
+  Para manipulación y análisis de datos estructurados.
+
+## *Visualización de Datos:*
+
+- [![matplotlib.pyplot](https://img.shields.io/badge/matplotlib.pyplot-800080?style=for-the-badge&logo=lock&logoColor=white)](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html)
+
+  Para crear gráficos y visualizaciones estáticas en Python.
+
+- [![seaborn](https://img.shields.io/badge/seaborn-800080?style=for-the-badge&logo=lock&logoColor=white)](https://seaborn.pydata.org/)
+
+  Para visualizaciones estadísticas atractivas y fáciles de usar.
+
+## *Herramienta de Visualización BI:*
+
+
+- [![Tableau](https://img.shields.io/badge/Tableau-800080?style=for-the-badge&logo=lock&logoColor=white)](https://www.tableau.com/es-es)
+
+  Para visualización y análisis de datos en tiempo real.
 
 # **Contacto**
 

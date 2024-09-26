@@ -17,10 +17,12 @@
     - [Dashboard 1](#dashboard-1-análisis-del-comportamiento-de-víctimas-en-el-año-2020)
     - [Dashboard 2](#dashboard-2-reducir-en-un-10-la-tasa-de-homicidios-en-siniestros-viales-de-los-últimos-seis-meses-en-caba-en-comparación-con-la-tasa-de-homicidios-en-siniestros-viales-del-semestre-anterior-en-2021)
     - [Dashboard 3](#dashboard-3-reducir-en-un-7-la-cantidad-de-accidentes-mortales-de-motociclistas-en-el-2021-en-caba-respecto-a-2020)
+      - [Link Dashboard](#link-dashboard)
 4. [Stack Tecnológico](#stack-tecnológico)
-    -
-    -
-    -
+    - [Lenguaje de Programación](#lenguaje-de-programación)
+    - [Librerías de limpieza y análisis](#librerías-de-análisis-de-datos)
+    - [Visualización de Datos](#visualización-de-datos)
+    - [Herramienta de Visualización BI](#herramienta-de-visualización-bi)
 5. [Contacto](#contacto)
 
 </details>
@@ -55,7 +57,9 @@ Definimos a la tasa de homicidios en siniestros viales como el número de vícti
 
 Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
-Link del dashboard: [Siniestros Viales](https://public.tableau.com/views/SiniestrosViales_17052770362730/Dashboard1victimas?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+### Link Dashboard
+
+[Siniestros Viales](https://public.tableau.com/views/SiniestrosViales_17052770362730/Dashboard1victimas?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # **Stack Tecnológico**
 
@@ -65,7 +69,7 @@ Link del dashboard: [Siniestros Viales](https://public.tableau.com/views/Siniest
   
   Para el desarrollo de la lógica y la funcionalidad de tu aplicación.
 
-## *Bibliotecas de Análisis de Datos:*
+## *Librerías de Análisis de Datos:*
 
 - [![NumPy](https://img.shields.io/badge/NumPy-800080?style=for-the-badge&logo=lucidchart&logoColor=white)](https://numpy.org/)
 
@@ -87,7 +91,6 @@ Link del dashboard: [Siniestros Viales](https://public.tableau.com/views/Siniest
 
 ## *Herramienta de Visualización BI:*
 
-
 - [![Tableau](https://img.shields.io/badge/Tableau-800080?style=for-the-badge&logo=lock&logoColor=white)](https://www.tableau.com/es-es)
 
   Para visualización y análisis de datos en tiempo real.
@@ -97,3 +100,5 @@ Link del dashboard: [Siniestros Viales](https://public.tableau.com/views/Siniest
 - Gmail: delfinapena55@gmail.com
 - LinkedIn: [Delfina Longo Peña](www.linkedin.com/in/delfina-longo-peña-44b4b623b)
 - Github: [delfinap5](https://github.com/delfinap5)
+
+[def]: #link-dashboard

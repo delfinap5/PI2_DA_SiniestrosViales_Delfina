@@ -2,11 +2,9 @@
   <img src="imagenes/motorcycle_and_car_accident.jpg" width="400px">
 </p>
 
-<h1 align='center'>Proyecto Individual 2</h1>
+# <h1 align='center'>**`Análisis exploratorio de siniestros viales y visualización de indicadores`**</h1>
 
-# <h1 align='center'>**`Siniestros viales`**</h1>
-
-<h1 align='center'>Delfina Longo Peña</h3>
+<h3>Proyecto de análisis de datos enfocado en estudiar siniestros viales, identificar patrones y generar indicadores mediante procesos de limpieza, transformación y visualización de datos.</h3>
 
 <details>
 <summary><strong>Índice</strong></summary>
@@ -29,8 +27,7 @@
 
 # **Descripción**
 
-En este proyecto, desempeño el papel de un analista de datos y tengo la responsabilidad de llevar a cabo un examen exhaustivo de los datos. El objetivo principal es generar información útil que pueda ser utilizada por las autoridades locales de la Ciudad de Buenos Aires. Esta información servirá para implementar medidas que reduzcan el número de víctimas mortales en incidentes de tráfico.
-He recibido un conjunto de datos denominado 'homicidios', que contiene información recopilada en la Ciudad de Buenos Aires entre los años 2016 y 2021. Además, he integrado otro conjunto de datos denominado 'población', el cual proporciona información sobre la cantidad de habitantes en CABA durante el mismo período, con el fin de enriquecer el análisis.
+El objetivo del proyecto es analizar datos históricos de siniestros viales ocurridos en CABA entre 2016 y 2021 para identificar patrones y generar indicadores útiles para la toma de decisiones.
 
 # **EDA y ETL**
 
